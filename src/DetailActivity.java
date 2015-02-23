@@ -17,6 +17,8 @@ import android.widget.TextView;
 
 //import android.widget.ShareActionProvider;
 
+// adding test line online
+
 public class  DetailActivity extends ActionBarActivity {
 
     private static final String LOG_TAG = DetailActivity.class.getSimpleName();
